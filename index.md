@@ -1,6 +1,9 @@
 # Java startup time
 Slides and resources of my talk Java startup time - where we are and what is coming
 
+## Feedback form
+- [feedback form](https://forms.gle/abn5mnXdiwgbWVL67)
+
 ## CRaC
 - [https://openjdk.org/projects/crac/](https://openjdk.org/projects/crac/)
 - [https://docs.spring.io/spring-framework/reference/integration/checkpoint-restore.html](https://docs.spring.io/spring-framework/reference/integration/checkpoint-restore.html)
@@ -18,4 +21,4 @@ Slides and resources of my talk Java startup time - where we are and what is com
 - [https://youtu.be/CeO9RaJhjxg?si=0yMVYouRQqgMMTd7](https://youtu.be/CeO9RaJhjxg?si=0yMVYouRQqgMMTd7)
 
 ## Slides
-[Slides](slides.pdf)
+[Slides](https://drive.google.com/file/d/1qRKAFFXOJ9s_dMLd7Vfi2zQrsvFA7HaA/view?usp=sharing)
