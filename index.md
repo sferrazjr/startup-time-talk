@@ -16,3 +16,6 @@ Slides and resources of my talk Java startup time - where we are and what is com
 ## Leyden
 - https://openjdk.org/projects/leyden/
 - https://youtu.be/CeO9RaJhjxg?si=0yMVYouRQqgMMTd7
+
+## Slides
+[Slides](https://github.com/sferrazjr/startup-time-talk/slides.pdf)
